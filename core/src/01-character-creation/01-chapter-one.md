@@ -63,6 +63,7 @@ The average commoner or craftsman usually has scores ranging from 1 - 3 in sever
 The Attributes at a Glance tables provide a quick overview of some of the common actions that each attribute will help you accomplish. All of the attributes are explained in further detail in Chapter 2: Actions and Attributes.
 
 <div class="table-no-body"></div>
+
 | **Physical Attributes at a Glance** |
 | - |
 | |
@@ -74,10 +75,12 @@ The Attributes at a Glance tables provide a quick overview of some of the common
 | **Might** | Swing a maul, jump over a chasm, break down a door, wrestle a foe to submission |
 
 <div class="table-no-body"></div>
+
 | Mental Attributes at a Glance |
 | - |
 | |
 <div class="table-no-head thirty-seventy"></div>
+
 | | |
 | - | - |
 | **Learning** | Recall facts about history, arcane magic, the natural world, or any information you picked up from an external source |
@@ -87,10 +90,12 @@ The Attributes at a Glance tables provide a quick overview of some of the common
 
 
 <div class="table-no-body"></div>
+
 | Social Attributes at a Glance |
 | - |
 | |
 <div class="table-no-head thirty-seventy"></div>
+
 | | |
 | - | - |
 | **Deception** | Tell a lie, bluff at cards, disguise yourself, spread rumors, swindle a sucker |
@@ -98,10 +103,12 @@ The Attributes at a Glance tables provide a quick overview of some of the common
 | **Presence** | Give a speech, sing a song, inspire an army, exert your force of personality, have luck smile upon you |
 
 <div class="table-no-body"></div>
+
 | Extraordinary Attributes at a Glance |
 | - |
 | |
 <div class="table-no-head thirty-seventy"></div>
+
 | | |
 | - | - |
 | **Alteration** | Change shape, alter molecular structures, transmute one material into another |
@@ -120,6 +127,7 @@ In Open Legend, you get to define your character's strengths and weaknesses by c
 If you are new to roleplaying games, or are just looking to get your character built quickly, choose one of the attribute sets listed in the Attribute Quick Builds table. Assign the scores listed to the attributes that define the type of character you want to play. The rest of your attributes begin with a score of zero.
 
 <div class="table-centered"></div>
+
 | ATTRIBUTE QUICK BUILDS |
 | - |
 | **Specialized Hero** |
@@ -135,6 +143,7 @@ If you are new to roleplaying games, or are just looking to get your character b
 If you would like more control over your attributes, you can purchase them to create your own set. With this method, at first level, you have a budget of 40 attribute points to spend, and the cost of each score is defined in the Purchasing Attributes table. The highest any score can reach at first level is 5, and you don't have to spend all of your points at character creation.
 
 <div class="table-no-body table-centered"></div>
+
 | PURCHASING ATTRIBUTES |
 | - |
 | |
@@ -154,10 +163,12 @@ If you would like more control over your attributes, you can purchase them to cr
 Every attribute score above 0 grants you bonus dice to increase your chance of success. Consult the Attribute Dice table for each of your attributes and record the appropriate dice. (You'll learn what to do with these dice later on.)
 
 <div class="table-no-body"></div>
+
 | Attribute Dice |
 | - |
 | |
 <div></div>
+
 | Attribute Score | Attribute Dice |
 | :-: | :-: |
 | 1 | 1d4 |
@@ -193,6 +204,7 @@ Every attribute score above 0 grants you bonus dice to increase your chance of s
 When an enemy tries to attack you—whether with the shot of a rifle, a deft sword thrust, or a mental assault—it will first need to overcome your defense. You have three defense scores, and each one protects you from different types of attacks. The higher your defense, the better you are at avoiding or shrugging off whatever your foes throw at you.
 
 <div class="table-no-body table-no-stripes table-even-header"></div>
+
 | Toughness = 10 + Fortitude + Will |
 | - |
 | |
@@ -200,6 +212,7 @@ When an enemy tries to attack you—whether with the shot of a rifle, a deft swo
 **Toughness** protects you from attacks that test your endurance, bodily health, sturdiness, and survivability. For example, foes attempting to poison you, drain your life force, or stun you will target your toughness.
 
 <div class="table-no-body table-no-stripes table-even-header"></div>
+
 | Guard = 10 + Agility + Might + Armor |
 | - |
 | |
@@ -207,6 +220,7 @@ When an enemy tries to attack you—whether with the shot of a rifle, a deft swo
 **Guard** protects you from attacks that can either be dodged, deflected, or directly withstood via raw physical power. Your enemies would need to overcome your guard in order to hit you with a grenade, shoot you with an arrow, or smash you with a maul.
 
 <div class="table-no-body table-no-stripes table-even-header"></div>
+
 | Resolve = 10 + Presence + Will  |
 | - |
 | |
@@ -214,6 +228,7 @@ When an enemy tries to attack you—whether with the shot of a rifle, a deft swo
 **Resolve** represents your character's ability to resist mental domination and stand brave in the face of danger. Enemies who wish to charm you, deceive you with illusions, or frighten you must target your resolve.
 
 <div class="table-no-body table-no-stripes table-even-header"></div>
+
 | Hit Points = 2 x (Fortitude + Presence + Will) + 10 |
 | - |
 | |
