@@ -15,6 +15,7 @@ Another important point in Open Legend is that every action roll should drive th
 If you look back to the Core Mechanic, you can see that a simple failure is not an option:
 
 <div class="table-centered"></div>
+
 | The Action Roll  |
 | - |
 | Roll 1d20 + attribute dice (all dice explode) |
