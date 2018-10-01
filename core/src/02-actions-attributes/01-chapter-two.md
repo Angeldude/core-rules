@@ -112,6 +112,7 @@ Many actions that you will undertake in *Open Legend* have a Challenge Rating (C
 Oftentimes, though, the GM will need to determine the CR for actions that aren't spelled out clearly in the rules. In these cases, the GM can use the Challenge Ratings by Difficulty Table to set an appropriate CR.
 
 <div class="table-no-body"></div>
+
 | Challenge Ratings by Difficulty |
 | - |
 | |
@@ -127,10 +128,12 @@ Oftentimes, though, the GM will need to determine the CR for actions that aren't
 It's important to note that Challenge Ratings are not typically set to be relative to the party's level. So, breaking down a strong wooden door is CR 15 whether the party is first level or tenth. However, it may be helpful when creating scenarios for GMs to understand the typical capabilities of a character based on their attribute score. The Average Challenge Ratings vs. Attribute Scores Table lists Challenge Ratings that are of average difficulty for a character with specific attribute scores. A character with the listed score can be expected to succeed at the listed Challenge Rating about **50%** of the time.
 
 <div class="table-no-body table-centered"></div>
+
 | Average Challenge Ratings vs. Attribute Scores |
 | - |
 | |
 <div class="table-centered"></div>
+
 | Attribute Score | Average Challenge Rating |
 | - | - |
 | 0 | 10 |
@@ -202,6 +205,7 @@ These rules apply to both actions performed with an attribute score of zero, as 
 Advantage and disadvantage can be assigned by the GM due to situational effects, or they can be assigned by feats, banes, and boons. When assigned situationally, the GM should never apply more than one level of advantage or disadvantage. Feats, banes, and boons—on the other hand—will often provide multiple levels as they rise in tier or power level. The Advantage and Disadvantage Examples Table provides a listing of typical situations in which the GM may assign advantage and disadvantage, though this list is by no means exhaustive.
 
 <div class="table-no-body"></div>
+
 | Advantage and Disadvantage Examples |
 | - |
 | |
